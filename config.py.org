@@ -1,0 +1,6 @@
+SPACE_NAME = ''
+PROJECT_ID = ''
+API_KEY = ''
+
+# Slack
+SLACK_POST_URL = ''

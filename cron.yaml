@@ -1,0 +1,5 @@
+cron:
+- description: "daily alert"
+  url: /task/alert
+  schedule: every day 8:30
+  timezone: Asia/Tokyo
